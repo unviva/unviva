@@ -2,17 +2,17 @@
 
 Based on your interests, you may want to check out;
   ### Software Development
-  - [Jusi](https://github.com/unviva/jusi){:target="_blank"}
+  - [Jusi](https://github.com/unviva/jusi)
     
   ### Philosophy
-  - [Miscalculator and Leaving-Kindmates](https://notes-sigma-rust.vercel.app/){:target="_blank"}
-  - [Collapsed Columns](https://www.barnesandnoble.com/w/collapsed-columns-zg-r-arslan/1143306364){:target="_blank"}
+  - [Miscalculator and Leaving-Kindmates](https://notes-sigma-rust.vercel.app/)
+  - [Collapsed Columns](https://www.barnesandnoble.com/w/collapsed-columns-zg-r-arslan/1143306364)
     
   ### Arts and Inspiration
-  - [Pinterest - Arsta42](https://pinterest.com/arsta42){:target="_blank"}
+  - [Pinterest - Arsta42](https://pinterest.com/arsta42)
 
   ### Language / Linguistics
-  - [STAKOMSET](https://github.com/unviva/STAKOMSET){:target="_blank"}
+  - [STAKOMSET](https://github.com/unviva/STAKOMSET)
 
 
 <!--
