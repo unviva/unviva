@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Based on your interest, you may want to check out;
+Based on your interests, you may want to check out;
   ### Software Development
   - [Jusi](https://github.com/unviva/jusi)
     
