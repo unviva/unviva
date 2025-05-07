@@ -5,7 +5,7 @@ When a component proven to be working, it works forever. Unless the component it
 # Story Mode
 Application flows in a story mode, rather than "if/else"s or loops. Each story has it's own seperate file.
 
-As an example, a user wants to visit profiles of other users, follows the 'profile' story mode, which includes sub-stories such as 'like, message' etc.
+As an example, a user wants to visit profiles of other users, follows the 'profile' story mode, which includes sub-stories in the same file. such as 'like, message' etc.
 
 Of which main purpose is to prevent bugs.
 
