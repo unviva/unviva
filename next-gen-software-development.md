@@ -1,5 +1,5 @@
 # Isolation
-Code changes doesn't affect existing code.
+Code changes doesn't affect the code not being worked on.
 When a component proven to be working, it works forever. Unless the component itself modified.
 
 # Story Mode
