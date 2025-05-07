@@ -3,6 +3,7 @@
 Based on your interests, you may want to check out;
   ### Software Development
   - [Jusi](https://github.com/unviva/jusi)
+  - [Next Gen Software Development](https://github.com/unviva/unviva/blob/main/next-gen-software-development.md)
     
   ### Philosophy
   - [Miscalculator and Leaving-Kindmates](https://notes-sigma-rust.vercel.app/) "the book make it's readers go & get magnifier glass" - bookscorers
