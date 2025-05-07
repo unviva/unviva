@@ -5,7 +5,7 @@ Based on your interests, you may want to check out;
   - [Jusi](https://github.com/unviva/jusi)
     
   ### Philosophy
-  - [Miscalculator and Leaving-Kindmates](https://notes-sigma-rust.vercel.app/)
+  - [Miscalculator and Leaving-Kindmates](https://notes-sigma-rust.vercel.app/) "the book make it's readers go & get magnifier glass" - bookscorers
   - [Collapsed Columns](https://www.barnesandnoble.com/w/collapsed-columns-zg-r-arslan/1143306364)
     
   ### Arts and Inspiration
