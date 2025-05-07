@@ -11,3 +11,5 @@ As an example, a user wants to visit profiles of other users, follows the 'profi
 
 Of which main purpose is to prevent bugs.
 
+# Detached from Properiarity and Rights
+Rather than tens of 1000s apps for the same purpose, single or few apps that does the job, globally. Which would be free of ownership. But rather runs with project management.
