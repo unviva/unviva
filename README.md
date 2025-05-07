@@ -6,7 +6,7 @@ Based on your interests, you may want to check out;
   - [Next Gen Software Development](https://github.com/unviva/unviva/blob/main/next-gen-software-development.md)
     
   ### Philosophy
-  - [Miscalculator and Leaving-Kindmates](https://notes-sigma-rust.vercel.app/) "the book make it's readers go & get magnifier glass" - bookscorers
+  - [Miscalculator and Leaving-Kindmates](https://notes-sigma-rust.vercel.app/) "the book make it's readers to get a magnifier glass" - bookscorers
   - [Collapsed Columns](https://www.barnesandnoble.com/w/collapsed-columns-zg-r-arslan/1143306364)
     
   ### Arts and Inspiration
