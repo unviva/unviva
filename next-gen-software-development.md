@@ -12,7 +12,7 @@ As an example, a user wants to visit profiles of other users, follows the 'profi
 Of which main purpose is to prevent bugs.
 
 # Local First
-Rather than syncing every action with remote server, it makes most use of local storage and data sync in batch, only when needed.
+Rather than syncing every action with remote server, it makes most use of local storage. data synced in batch, only when needed.
 
 # Detached from Properiatery and Rights
 Rather than tens of 1000s apps for the same purpose, single or few apps that does the job, globally. Which would be free of ownership. But rather runs with project management.
