@@ -20,7 +20,9 @@ In that sense, non-person requests, such as payment, directory (listing)...etc. 
 
 Though it relies on connection availability, when it's off, it's off.
 
-For common data, it's versioned/timestamped and synced to latest, on launch.
+Data flow is real-time messaging based (RPC), rather than on-request.
+
+For common data, it's versioned/timestamped and synced always using RPC. So each connected device gets a JSON "whatsapp message" when common data is updated.
 
 # Detached from Properiatery and Rights
 Rather than tens of 1000s apps for the same purpose, single or few apps that does the job, globally. Which would be free of ownership. But rather runs with project management.
