@@ -11,8 +11,11 @@ As an example, a user wants to visit profiles of other users, follows the 'profi
 
 Of which main purpose is to prevent bugs.
 
-# Local First
-Rather than syncing every action with remote server, it makes most use of local storage. data synced in batch, only when needed.
+# Local Data Only
+Rather than syncing every action with remote server, it uses local storage only. In such a scenario, each device known as client today, becomes server and data is similar to a whatsapp message of JSON text between 2 devices.
+
+For example, visiting a profile of other, is to make a request from other device, which also stores it's own contacts and likes, posts ...etc. which are sent back to requesting device, similar to text messaging.
+
 
 # Detached from Properiatery and Rights
 Rather than tens of 1000s apps for the same purpose, single or few apps that does the job, globally. Which would be free of ownership. But rather runs with project management.
